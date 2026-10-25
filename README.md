@@ -1,3 +1,7 @@
+<h1>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="32" />
+  Healthcare Analytics Dashboard
+</h1>
 # Healthcare Analytics Dashboard
 
 ## Project Overview
